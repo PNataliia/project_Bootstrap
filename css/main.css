@@ -1,0 +1,67 @@
+* body{
+    font-family: 'Cinzel', serif;
+}
+body{
+    font-family: 'Cinzel', serif;
+}
+.title{
+    font-family: 'Rouge Script', cursive;
+    font-size: 45px;
+   text-align: center;
+    border-bottom: 1px black solid;
+}
+nav {
+    font-size: 17px;
+    border-bottom: 1px black solid;
+}
+.nav-item{
+    text-transform: uppercase;
+}
+.navbar-nav a{
+    color: black;
+}
+.navbar-toggler {
+    color: black;
+}
+.btn{
+    color: black;
+}
+.name-section{
+    text-transform: uppercase;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.text-center{
+    margin: 0 20px;
+}
+.title-room{
+    margin-top: 10px;
+}
+.col-xs-12{
+    padding-top: 10px;
+}
+.name-section h3{
+    border:  1px black solid;
+    border-left: none;
+    border-right: none;
+    margin: 5px;
+    padding: 0;
+    size: 20px;
+}
+.card-text{
+    font-size: 11px;
+}
+.text-muted{
+    font-size: 8px;
+}
+.d-flex{
+    margin: 40px 0 40px 0;
+    font-size: 20px;
+    color: black;
+}
+footer img{
+    width: 25px;
+    height: auto;
+    margin-right: 12px;
+
+}
